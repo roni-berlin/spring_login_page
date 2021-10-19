@@ -1,0 +1,5 @@
+myShop\Application.class
+myShop\Controllers\Home.class
+myShop\Repositories\UserRepository.class
+myShop\Services\UserService.class
+myShop\Controllers\UserController.class
